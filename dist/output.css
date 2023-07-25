@@ -710,6 +710,38 @@ video {
   height: 2.25rem;
 }
 
+.h-\[\] {
+  height: ;
+}
+
+.h-\[512px\] {
+  height: 512px;
+}
+
+.h-\[870px\] {
+  height: 870px;
+}
+
+.max-h-\[870px\] {
+  max-height: 870px;
+}
+
+.max-h-\[600px\] {
+  max-height: 600px;
+}
+
+.max-h-\[50px\] {
+  max-height: 50px;
+}
+
+.max-h-\[500px\] {
+  max-height: 500px;
+}
+
+.max-h-\[120px\] {
+  max-height: 120px;
+}
+
 .w-9 {
   width: 2.25rem;
 }
