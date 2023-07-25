@@ -17,8 +17,7 @@ module.exports = {
       }
     }
   },
-  plugins: []
+  plugins: [
+    require('@tailwindcss/line-clamp'),
+  ],
 };
-
-// #92400e
-// #1d4ed8

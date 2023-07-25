@@ -18,5 +18,8 @@
   "homepage": "https://github.com/yemimasutanto/cv-and-portfolio#readme",
   "devDependencies": {
     "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.4.4"
   }
 }
